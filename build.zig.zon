@@ -1,0 +1,16 @@
+.{
+    .name = "opencv",
+    .version = "4.11.0",
+    .minimum_zig_version = "0.13.0",
+    .paths = .{
+        "3rdparty",
+        "apps",
+        "data",
+        "include",
+        "modules",
+        "platforms",
+        "samples",
+        "build.zig.zon",
+        "README.md",
+    },
+}
